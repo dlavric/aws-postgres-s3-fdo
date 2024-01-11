@@ -1,0 +1,1 @@
+storage_bucket = "daniela-fdo-storage"
